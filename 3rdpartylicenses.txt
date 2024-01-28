@@ -1063,6 +1063,8 @@ SOFTWARE.
 ng-apexcharts
 MIT
 
+ng-thermal-print
+
 ngx-lottie
 MIT
 
